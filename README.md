@@ -14,3 +14,4 @@ Yes, it's's the ubiquitous **Todo** app. The core functionality of this right no
 - Dark mode
 - Accessibility audit
 
+(I'm working on a React version of this, more or less at the same time... You can see the progress of _that_ version [here](https://github.com/mtripney/todo-react).)
